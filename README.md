@@ -1,6 +1,4 @@
 # ozon-fintech
-Тестовое задание для Ozon Fintech
-
 
 <!-- ToC start -->
 # Содержание
